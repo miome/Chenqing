@@ -1,0 +1,5 @@
+/home/saewill/Projects/MdzsWeapons/MdzsWeapons/bin/Debug/MdzsWeapons.dll
+/home/saewill/Projects/MdzsWeapons/MdzsWeapons/bin/Debug/MdzsWeapons.pdb
+/home/saewill/Projects/MdzsWeapons/MdzsWeapons/obj/Debug/MdzsWeapons.csproj.CoreCompileInputs.cache
+/home/saewill/Projects/MdzsWeapons/MdzsWeapons/obj/Debug/MdzsWeapons.dll
+/home/saewill/Projects/MdzsWeapons/MdzsWeapons/obj/Debug/MdzsWeapons.pdb

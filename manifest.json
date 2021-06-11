@@ -1,0 +1,10 @@
+﻿{
+  "Name": "MDZS Weapons",
+  "Author": "Miome",
+  "Version": "1.0.0",
+  "Description": "Adds weapons from popular donghua MDZS",
+  "UniqueID": "miome.mdzsweapons",
+    "EntryDll": "MdzsWeapons.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
